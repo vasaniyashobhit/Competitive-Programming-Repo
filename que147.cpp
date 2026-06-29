@@ -1,0 +1,31 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        string s;
+        cin >> s;
+        int a = 0, b = 0;
+        int n = s.size();
+        for (int i = 0; i < n; i++)
+        {
+            if (s[i] == '0')
+                a++;
+            else
+                b++;
+        }
+
+        int cnt = min(a, b);
+        if (cnt % 2 == 0)
+            cout << "NET" << endl;
+        else
+            cout << "DA" << endl;
+    }
+
+    return 0;
+}
