@@ -3,7 +3,7 @@
 > 500+ problems solved on Codeforces | C++ | Rated: Pupil
 
 ## 📊 Stats
-- **Platform:** Codeforces (`vasaniyashobhit`)
+- **Platform:** Codeforces (`ShobhitVasaniya`)
 - **Language:** C++17
 - **Problems Solved:** 500+
 - **Topics Covered:** DP, Graphs, Greedy, Segment Trees, Binary Search, Number Theory
@@ -22,6 +22,6 @@ Files are named `que<problem_number>.cpp` corresponding to problems solved seque
 | Number Theory | Sieve, GCD, Modular arithmetic |
 
 ## 🔗 Links
-- [Codeforces Profile](https://codeforces.com/profile/vasaniyashobhit)
+- [Codeforces Profile](https://codeforces.com/profile/ShobhitVasaniya)
 - [GitHub Profile](https://github.com/vasaniyashobhit)
 
